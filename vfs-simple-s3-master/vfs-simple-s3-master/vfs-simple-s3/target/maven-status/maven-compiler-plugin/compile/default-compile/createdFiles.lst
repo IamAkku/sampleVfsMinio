@@ -1,0 +1,7 @@
+com\sludev\commons\vfs2\provider\s3\SS3FileSystemConfigBuilder.class
+com\sludev\commons\vfs2\provider\s3\SS3OutputStream.class
+com\sludev\commons\vfs2\provider\s3\SS3Constants.class
+com\sludev\commons\vfs2\provider\s3\SS3FileNameParser.class
+com\sludev\commons\vfs2\provider\s3\SS3FileSystem.class
+com\sludev\commons\vfs2\provider\s3\SS3FileObject.class
+com\sludev\commons\vfs2\provider\s3\SS3FileProvider.class

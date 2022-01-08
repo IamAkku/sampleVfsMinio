@@ -1,0 +1,4 @@
+com\sludev\commons\vfs2\provider\s3\SS3TestProperties.class
+com\sludev\commons\vfs2\provider\s3\SS3TestWatcher.class
+com\sludev\commons\vfs2\provider\s3\SS3FileProviderTest.class
+com\sludev\commons\vfs2\provider\s3\SS3TestUtils.class
